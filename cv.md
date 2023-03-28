@@ -49,4 +49,4 @@ _December 2022 to Present_
 ## Language
 **Russian** - native.
 **English** - Pre-Intermediate.
-<!-- [My CV](https://DaryaSolomennikova.github.io/rsschool-cv/cv) -->
+[My CV](https://DaryaSolomennikova.github.io/rsschool-cv/cv)
